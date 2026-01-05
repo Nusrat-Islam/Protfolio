@@ -4,7 +4,7 @@ const projectsData = [
   {
     id: 1,
     name: "RentWheels – Car Rental Platform",
-    image: "../../public/CarRent_Logo.png", 
+    image: "/CarRent_Logo.png", 
     techStack: "React, Tailwind, Node.js, MongoDB, Firebase Auth",
     description:
       "A full-stack car rental platform where users can book cars, and admins/vendors can manage listings and payments.",
@@ -18,7 +18,7 @@ const projectsData = [
   {
     id: 2,
     name: "Pawsy – Pet Care Services",
-    image: "../../public/Puppy, Kitten and Bird Trio.jpeg", 
+    image: "/Puppy, Kitten and Bird Trio.jpeg", 
     techStack: "React, Tailwind, Node.js, MongoDB, Firebase Admin, Stripe",
     description:
       "Platform to book pet care services with vendor dashboard, JWT auth, and admin management system.",
@@ -31,7 +31,7 @@ const projectsData = [
   {
     id: 3,
     name: "Ticket Bari – Online Ticket Booking Platform",
-    image: "../../public/Ticketbari_Logo.png", // public folder
+    image: "/Ticketbari_Logo.png", // public folder
     techStack: "React, Tailwind, Firebase",
     description:
       "An online ticket booking platform with responsive UI, CRUD features, and smooth user experience.",

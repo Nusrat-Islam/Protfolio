@@ -7,7 +7,7 @@ const Hero = () => {
       id="home"
       className="min-h-screen flex items-center pt-24 bg-gradient-to-b from-gray-900 to-black"
     >
-      <div className="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-10 items-center">
+      <div className="max-w-6xl mx-auto px-6 md:flex md:flex-row flex flex-col-reverse gap-10 items-center">
 
         {/* LEFT CONTENT */}
         <motion.div
