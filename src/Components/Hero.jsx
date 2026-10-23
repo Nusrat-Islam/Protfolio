@@ -81,7 +81,7 @@ const Hero = () => {
 
             {/* RESUME BUTTON */}
             <a
-              href="https://drive.google.com/uc?export=download&id=1gly2glkLQuBVNjtG9hKpbpk_fXPhvAZH"
+              href="https://drive.google.com/uc?export=download&id=1F4rqtNW9eHq6fZ99APM-zO-9grwdwzfM"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex min-h-12 items-center justify-center rounded-xl bg-gradient-to-r from-indigo-500 to-violet-500 px-6 py-3 text-sm font-semibold text-white shadow-lg shadow-indigo-500/25 transition duration-300 hover:-translate-y-1 hover:shadow-indigo-500/40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-400"
